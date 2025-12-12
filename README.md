@@ -14,8 +14,8 @@
 
 | Member | Roll No. | Contribution |
 |---------|-----------|--------------|
-| Mayank Bhaiya | A-40 | Model development, evaluation, and documentation |
-| Shubhra Sahu | A-52 | Data preprocessing, visualization, and report writing |
+| Mayank Bhaiya | A-40 | Model development,Data preprocessing , and documentation |
+| Shubhra Sahu | A-52 | evaluation, visualization, and report writing |
 
 ---
 
